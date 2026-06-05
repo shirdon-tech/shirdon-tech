@@ -1,7 +1,11 @@
-## Amin Shirdon
+### Hey, I'm Amin.
 
-First-year AI student at Alfaisal University in Riyadh, originally from Hamburg.
+First-year AI student at Alfaisal University in Riyadh. Originally from Hamburg — moved here recently.
 
-I build with LLMs and AI agent tooling — Claude Code, multi-agent orchestration, and the surrounding workflow plumbing.
+Most of my time goes into building with LLMs and agent tooling — Claude Code, multi-agent orchestration, the plumbing around it. My main project is a multi-agent app-generation system built on the OpenClaw framework: [openclaw-multi-agent](https://github.com/shirdon-tech/openclaw-multi-agent).
 
-Currently focused on Python, data structures & algorithms, and cybersecurity.
+From coursework I also have Python and Java (built a small banking system in Java), plus some freelance web work on the side.
+
+Right now I'm going deep on Python data structures & algorithms and cybersecurity.
+
+Long-term I want to start my own company. For now I'm just trying to learn by actually building things.
